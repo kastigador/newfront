@@ -1,0 +1,1 @@
+export { default as Componente2 } from './Componente2';
